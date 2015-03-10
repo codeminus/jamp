@@ -1,0 +1,938 @@
+		 <html xmlns:v="urn:schemas-microsoft-com:vml"
+		xmlns:o="urn:schemas-microsoft-com:office:office"
+		xmlns:w="urn:schemas-microsoft-com:office:word"
+		xmlns="http://www.w3.org/TR/REC-html40">
+		
+		<head>
+		<meta http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
+		<meta name=ProgId content=Word.Document>
+		<meta name=Generator content="Microsoft Word 9">
+		<meta name=Originator content="Microsoft Word 9">
+		<!--[if !mso]>
+		<style>
+		v\:* {behavior:url(#default#VML);}
+		o\:* {behavior:url(#default#VML);}
+		w\:* {behavior:url(#default#VML);}
+		.shape {behavior:url(#default#VML);}
+		</style>
+		<![endif]-->
+		<title>Untitled Document</title>
+		<!--[if gte mso 9]><xml>
+		 <w:WordDocument>
+		  <w:View>Print</w:View>
+		  <w:DoNotHyphenateCaps/>
+		  <w:PunctuationKerning/>
+		  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+		  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+		 </w:WordDocument>
+		</xml><![endif]-->
+		
+		<!--[if gte mso 9]><xml>
+		 <o:shapedefaults v:ext="edit" spidmax="1032">
+		  <o:colormenu v:ext="edit" strokecolor="none"/>
+		 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+		 <o:shapelayout v:ext="edit">
+		  <o:idmap v:ext="edit" data="1"/>
+		 </o:shapelayout></xml><![endif]-->
+		 
+		</head>			<body style="font-family: Arial; "><table width="120%"  align="center" style="font-family: Arial;font-size: 10pt">
+				<tr>
+					<td colspan="2" align="right" style="margin-bottom: 10px"><img src="http://newserviceltda.net/jamp//img/95d06baa08a53527e3037de714e0db48.jpg"></td>
+				</tr>
+				<tr>
+					<td>
+						Relat&oacute;rio de ordens de servi&ccedil;o<br/>
+						Gerado por: Thaís
+					</td>
+					<td align="right" valign="top">07:46:31 06/05/2014</td>
+				</tr>
+			  </table><br/><br/><table width="120%" style="font-family: Arial;font-size: 8pt;" align="center"><tr><td colspan="9">40 registros nesta pesquisa</td></tr></table><table width="120%" cellspacing="0" cellpadding="4" style="font-family: Arial;font-size: 8pt; border: solid 1px" align="center"><tr bgcolor="#336699" style="color: #FFFFFF">
+				<th>OSID</th>
+				<th>Abertura</th>
+				<th>Conclus&atilde;o</th>
+				<th align="left">Equipamento</th>
+				<th>Status</th>
+				<th>Local</th>
+			  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >986</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >23-12-10</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1068</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >14-01-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >1136</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >03-03-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1273</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >28-03-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >1363</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >15-04-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1428</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >13-05-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >1519</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >20-06-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1574</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >15-07-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >1666</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >25-08-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1754</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >16-09-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >1861</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >17-10-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >1950</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >18-11-11</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >2118</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >11-01-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >2201</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >06-02-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >2289</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >28-03-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >2532</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >23-05-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >2591</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >14-06-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >2790</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >08-08-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >2981</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >21-08-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >3071</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >23-08-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >3283</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >20-09-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >3404</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >08-10-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >3628</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >09-11-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >3838</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >19-12-12</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >4089</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >04-02-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >4163</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >14-03-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >4412</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >10-04-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >4495</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >16-04-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >4637</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >07-05-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >4798</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >04-06-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >4832</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >10-06-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >5064</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >23-08-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >5319</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >02-09-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >5373</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >12-09-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >5573</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >11-10-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >5793</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >06-12-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >5929</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >13-12-13</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >6137</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >24-03-14</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#FFFFFF">
+					<td align="center" >6440</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" >26-03-14</td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#FFFFFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#ECECFF">
+					<td align="center" >6512</td>
+					<td align="center" >20-12-10</td>
+					<td align="center" ></td>
+					<td>
+						<b>EQUID: </b>664
+						<b>Num. S&eacute;rie: </b>100245
+						<b>Num. Patrim&ocirc;nio: </b>						
+						<b>Nome: </b>CAPELA AUTOCLAVE (01) 
+					</td>					
+					
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/manutencao.png" /></td>
+					<td align="center" rowspan="3"><img src="http://newserviceltda.net/jamp//img/btn/local.png" /></td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Modelo: </b>HS6-0201 <b>Fabricante: </b>SERCON</td>
+				  </tr>
+				  <tr bgcolor="#ECECFF">
+				  	<td colspan="3">&nbsp;</td>
+					<td><b>Cliente: </b>FUNDAÇÃO HOSPITALAR DE SAÚDE</td>
+				  </tr><tr bgcolor="#336699" style="color: #FFFFFF">
+				<td colspan="6" align="center">http://newserviceltda.net/jamp/</td>
+			  </tr>		  
+			  </table>
+			  <table width="120%" style="font-family: sans; font-size: 8pt; margin-top: 10px" align="center">
+				<tr><td>Legendas:</td></tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/orcamento.png" />&nbsp;&nbsp;&nbsp;Aguardando autorização					
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/orcamentoj.png" />&nbsp;&nbsp;&nbsp;N&atilde;o autorizado					
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/encaminhado.png" />&nbsp;&nbsp;&nbsp;Encaminhado ao suporte					
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/manutencao.png" />&nbsp;&nbsp;&nbsp;Em manuten&ccedil;&atilde;o					
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/manutencao_d.png" />&nbsp;&nbsp;&nbsp;Conclu&iacute;da
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/local.png" />&nbsp;&nbsp;&nbsp;Equipamento no local
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="http://newserviceltda.net/jamp//img/btn/rlocal.png" />&nbsp;&nbsp;&nbsp;Equipamento removido do local
+					</td>
+				</tr>
+			  </table>		  
+			  </body>
